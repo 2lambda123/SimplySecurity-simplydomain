@@ -27,7 +27,7 @@ fake_useragent == 0.1.10
 # src/dynamic_modules/dnsdumpster_search.py: 4,5,7
 # src/dynamic_modules/virustotal_search.py: 4,5,7
 # src/static_modules/subdomain_bruteforce.py: 13,14,17
-json2xml == 2.2.0
+json2xml == 3.14.0
 
 # src/module_helpers.py: 1
 requests == 2.31.0
