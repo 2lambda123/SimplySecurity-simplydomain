@@ -40,7 +40,7 @@ termcolor == 1.1.0
 
 # src/core_progress.py: 1
 # src/static_modules/subdomain_bruteforce.py: 11
-tqdm == 4.19.4
+tqdm == 4.66.3
 
 # src/static_modules/subdomain_bruteforce.py: 7
 uvloop == 0.8.1
